@@ -1,0 +1,42 @@
+      <div class="photo" data-text="Esta es la historia de la foto 1. Aquí puedes describir recuerdos o momentos especiales.">
+        <img src="Images/foto1.jpg" alt="Foto 1">
+      </div>
+      <div class="photo" data-text="Texto relacionado con la foto 2. Describe su contexto o importancia.">
+        <img src="Images/foto2.jpg" alt="Foto 2">
+      </div>
+      <div class="photo" data-text="Texto relacionado con la foto 2. Describe su contexto o importancia.">
+        <img src="Images/foto5.jpg" alt="Foto 2">
+      </div>
+      <div class="photo" data-text="Texto relacionado con la foto 2. Describe su contexto o importancia.">
+        <img src="Images/foto6.jpg" alt="Foto 2">
+      </div>
+      <div class="photo" data-text="Texto relacionado con la foto 2. Describe su contexto o importancia.">
+        <img src="Images/foto7.jpg" alt="Foto 2">
+      </div>
+      <div class="photo" data-text="Texto relacionado con la foto 2. Describe su contexto o importancia.">
+        <img src="Images/foto8.jpg" alt="Foto 2">
+      </div>
+      <div class="photo" data-text="Texto relacionado con la foto 2. Describe su contexto o importancia.">
+        <img src="Images/foto9.jpg" alt="Foto 2">
+      </div>
+      <div class="photo" data-text="Texto relacionado con la foto 2. Describe su contexto o importancia.">
+        <img src="Images/foto10.jpg" alt="Foto 2">
+      </div>
+      <div class="photo" data-text="Texto relacionado con la foto 2. Describe su contexto o importancia.">
+        <img src="Images/foto11.jpg" alt="Foto 2">
+      </div>
+      <div class="photo" data-text="Texto relacionado con la foto 2. Describe su contexto o importancia.">
+        <img src="Images/foto13.jpg" alt="Foto 2">
+      </div>
+      <div class="photo" data-text="Texto relacionado con la foto 2. Describe su contexto o importancia.">
+        <img src="Images/foto14.jpg" alt="Foto 2">
+      </div>
+      <div class="photo" data-text="Texto relacionado con la foto 2. Describe su contexto o importancia.">
+        <img src="Images/foto15.jpg" alt="Foto 2">
+      </div>
+      <div class="photo" data-text="Texto relacionado con la foto 2. Describe su contexto o importancia.">
+        <img src="Images/foto16.jpg" alt="Foto 2">
+      </div>
+      <div class="photo" data-text="Texto relacionado con la foto 2. Describe su contexto o importancia.">
+        <img src="Images/foto17.jpg" alt="Foto 2">
+      </div>
